@@ -8,11 +8,17 @@
 ## 💻Thông tin mô hình
 - Tên mô hình: _**LFM2.5-350M**_.
 - Author: **_Liquid AI_**.
+
 <p align=center>
-  <img src = "README/" >
+  <img src = "README/LiquidAI.png" width = "500">
 </p>
   
 - Distributer: **_Hugging face_**.
+
+<p align=center>
+  <img src = "README/What-is-Hugging-Face.png" width = "300">
+</p>
+
 - Link Url: **https://huggingface.co/LiquidAI/LFM2.5-350M**
 
 
