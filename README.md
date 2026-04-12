@@ -155,13 +155,13 @@ Ta có thể test từng request bằng cách ấn nút "Try it out", và ấn n
 
 Với _/generate_ request, thì ta phải thêm input trong phần "Edit value" sau khi đã ấn nút "Try it out", sau đó ấn nút "Execute".
 
-Input: 
+- Input: 
 
 <p align=center>
   <img src = "README/input.png" width = "600">
 </p>
 
-Output:
+- Output:
 
 <p align=center>
   <img src = "README/output.png" width = "600">
