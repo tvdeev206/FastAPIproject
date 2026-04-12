@@ -134,7 +134,7 @@ Nếu ta vào **http://127.0.0.1:8000** thì sẽ như bước 1.
 Thay vào đó ta vào **http://127.0.0.1:8000/docs**, thì khi này sẽ xuất hiện một GUI với cấu trúc như hình
 
 <p align=center>
-  <img src = "README/fastapiweb.png" width = "300">
+  <img src = "README/fastapiweb.png" width = "600">
 </p>
 
 Với từng request ta đã thiết kế, thì sẽ cho ra từng response tương ứng.
@@ -143,26 +143,27 @@ Ta có thể test từng request bằng cách ấn nút "Try it out", và ấn n
 - default GET
 
 <p align=center>
-  <img src = "README/defaultget.png" width = "300">
+  <img src = "README/defaultget.png" width = "600">
 </p>
 
 - GET health 
 
 <p align=center>
-  <img src = "README/gethealth.png" width = "300">
+  <img src = "README/gethealth.png" width = "600">
 </p>
 
 Với _/generate_ request, thì ta phải thêm input trong phần "Edit value" sau khi đã ấn nút "Try it out", sau đó ấn nút "Execute".
+
 Input: 
 
 <p align=center>
-  <img src = "README/input.png" width = "300">
+  <img src = "README/input.png" width = "600">
 </p>
 
 Output:
 
 <p align=center>
-  <img src = "README/output.png" width = "300">
+  <img src = "README/output.png" width = "600">
 </p>
 
 ## 🎦 Liên kết video demo
