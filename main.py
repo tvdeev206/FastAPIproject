@@ -7,8 +7,10 @@ app = FastAPI()
 @app.get("/")
 def root():
     return {
-        "message": "Tên mô hình: Text Generation API using LFM2.5-350M:\n"
-                   "Kiến trúc hệ thống: Client (Laptop) -> FastAPI -> HuggingFace Model -> JSON Response -> Swagger UI"
+        "message": ["Tên mô hình: Text Generation API using LFM2.5-350M",
+                    "Chức năng: Sinh văn bản dựa trên prompt người dùng",
+                    "Kiến trúc hệ thống: Client -> FastAPI -> HuggingFace Model -> JSON Response (-> Swagger UI)"
+                   ]
     }
 
 @app.get("/health")

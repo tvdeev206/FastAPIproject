@@ -25,7 +25,6 @@ def generate_chat(messages):
         temperature=0.5
     )
 
-    # Only decode generated part (IMPORTANT)
     response = tokenizer.decode(
         outputs[0][inputs["input_ids"].shape[-1]:],
         skip_special_tokens=True
