@@ -130,7 +130,7 @@ INFO:     Application startup complete.
 ```
 
 ### Bước 2:
-Nếu ta vào **http://127.0.0.1:8000** thì sẽ như bước 1.
+Nếu ta vào **http://127.0.0.1:8000** thì sẽ như cách 1.
 
 Thay vào đó ta vào **http://127.0.0.1:8000/docs**, thì khi này sẽ xuất hiện một GUI với cấu trúc như hình
 
