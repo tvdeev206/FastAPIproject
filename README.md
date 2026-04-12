@@ -3,6 +3,7 @@
 ## 📃Thông tin sinh viên
 - Họ và tên: Trần Văn Đức
 - MSSV: 24120042
+- Lớp: 24CTT5
 
 
 ## 💻Thông tin mô hình
@@ -167,3 +168,4 @@ Output:
 </p>
 
 ## 🎦 Liên kết video demo
+Link Drive: https://drive.google.com/file/d/1uJ_vNEqMPwdsWDQAlHb6CiKxAEYRKr25/view?usp=sharing
